@@ -89,7 +89,7 @@ After you're finished please remove all the comments and instructions!
 - [Live Demo Link]()
 
 ## Loom Video <a name="loom"></a>
-- [Video Link](https://www.loom.com/share/8706018a2539463e994174aaf2f63618)
+- [Video Link](https://)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -111,7 +111,7 @@ In order to run this project you need:
 
 > Clone this repository to your desired folder:
 
-git clone git@github.com:Shakir-Hussain12/Capstone1.git
+git clone git@github.com:https://github.com/patrick-amponsah/capstone.git
 
 <!-- AUTHORS -->
 
@@ -120,8 +120,8 @@ git clone git@github.com:Shakir-Hussain12/Capstone1.git
 👤 **Patrick Amponsah**
 
 - GitHub: [@Patrick-Amponsah](https://github.com/patrick-amponsah)
-- Twitter: [@esseltricky](https://twitter.com/Ekow Essel)
-- LinkedIn: [Patrick-Amponsah](https://linkedin.com/in/patrick-amponsah-2129a121b/)
+- Twitter: [@esseltricky](https://twitter.com/esseltricky)
+- LinkedIn: [Patrick-Amponsah](https://linkedin.com/in/patrick-amponsah/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
