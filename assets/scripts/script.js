@@ -241,8 +241,6 @@ window.onresize = () => {
   } else if (wSize >= 768 && check) {
     check = false;
     desktop();
-  } else {
-    console.log('skip');
   }
 };
 
