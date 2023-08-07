@@ -86,7 +86,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://shakir-hussain12.github.io/Capstone1)
+- [Live Demo Link]()
 
 ## Loom Video <a name="loom"></a>
 - [Video Link](https://www.loom.com/share/8706018a2539463e994174aaf2f63618)
@@ -117,11 +117,11 @@ git clone git@github.com:Shakir-Hussain12/Capstone1.git
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Shakir Hussain**
+👤 **Patrick Amponsah**
 
-- GitHub: [@Shakir-Hussain12](https://github.com/Shakir-Hussain12)
-- Twitter: [@S_Hussain_99](https://twitter.com/S_Hussain_99)
-- LinkedIn: [Shakir-Hussain](https://linkedin.com/in/shakir-hussain-2129a121b/)
+- GitHub: [@Patrick-Amponsah](https://github.com/patrick-amponsah)
+- Twitter: [@esseltricky](https://twitter.com/Ekow Essel)
+- LinkedIn: [Patrick-Amponsah](https://linkedin.com/in/patrick-amponsah-2129a121b/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
