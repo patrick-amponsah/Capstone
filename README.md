@@ -86,7 +86,8 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link]()
+- [Live Demo Link](https://patrick-amponsah.github.io/Capstone/
+)
 
 ## Loom Video <a name="loom"></a>
 - [Video Link](https://)
